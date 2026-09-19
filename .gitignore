@@ -1,0 +1,5 @@
+.ctf_token
+*.ovpn
+event.json
+files/
+work/
